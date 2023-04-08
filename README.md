@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Lab](https://github.com/Semaj27/)
+  - [Active Directory Lab](https://github.com/Semaj27/ActiveDirectoryLab)
 
 <h2>📄 Certifications:</h2>
 
