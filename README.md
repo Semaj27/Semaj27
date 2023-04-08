@@ -7,7 +7,7 @@
 <h2>📄 Certifications:</h2>
 
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/AZYYNTKQ7GYL)
-  - [IBM Fundamentals](https://skills.yourlearning.ibm.com/certificate/PLAN-BC0FAEE8E439)
+  - [IBM Data Fundamentals](https://skills.yourlearning.ibm.com/certificate/PLAN-BC0FAEE8E439)
   - [IT Security: Defense against the digital dark arts](https://www.coursera.org/account/accomplishments/certificate/GPNVG6NQY7RL)
 <h2> 🤳 Connect with me:</h2>
 
