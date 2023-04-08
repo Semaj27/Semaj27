@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Darrell!</h1>
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>PowerShell</b>
+  - [Active Directory Lab](https://github.com/Semaj27/)
+
+<h2>📄 Certifications:</h2>
+
+  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/AZYYNTKQ7GYL)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DarrellHolmes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/semaj-holmes/
 
 <!--
-**Semaj27/Semaj27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
