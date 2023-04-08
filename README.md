@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/Semaj27/ActiveDirectoryLab)
+  - [Lab](...)
 
 <h2>📄 Certifications:</h2>
 
