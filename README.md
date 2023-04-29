@@ -1,5 +1,7 @@
 <h1>Hi, I'm Darrell!</h1>
 
+<h2>👨‍💻 Personal Website:</h2>
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Lab](...)
