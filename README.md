@@ -1,9 +1,5 @@
 <h1>Hi, I'm Darrell!</h1>
 
-<h2>👨‍💻 Personal Website:</h2>
-
-  - [Website](https://github.com/Semaj27/PersonalWebsite)
-
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Lab](...)
