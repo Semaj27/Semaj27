@@ -1,9 +1,10 @@
 <h1>Hi, I'm Darrell!</h1>
 
 <h2>👨‍💻 Projects:</h2>
-<h3>REST API</h3>
-  - [hospitalAPI](https://github.com/Semaj27/hospitalAPI)
-  - <p>Allows you to send, GET, POST, PUT and DELETE request to a pseudo database</p>
+
+<h4>REST API</h4>
+
+  - [Hospital API](https://github.com/Semaj27/hospitalAPI)
 
 <h2>📄 Certifications:</h2>
 
