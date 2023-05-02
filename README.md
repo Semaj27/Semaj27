@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 <h3>REST API</h3>
-  - [hospitalAPI](https://github.com/Semaj27/hospitalAPI) <p>Allows you to send, GET, POST, PUT and DELETE request to a pseudo database</p>
+  - [hospitalAPI](https://github.com/Semaj27/hospitalAPI)
+  - <p>Allows you to send, GET, POST, PUT and DELETE request to a pseudo database</p>
 
 <h2>📄 Certifications:</h2>
 
