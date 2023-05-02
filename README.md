@@ -1,8 +1,8 @@
 <h1>Hi, I'm Darrell!</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-  - [Lab](...)
+<h2>👨‍💻 Projects:</h2>
+<h3>REST API</h3>
+  - [hospitalAPI](https://github.com/Semaj27/hospitalAPI) <p>Allows you to send, GET, POST, PUT and DELETE request to a pseudo database</p>
 
 <h2>📄 Certifications:</h2>
 
