@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-<h4>REST API</h4>
+<h4>Data Visualization Projects</h4>
 
-  - [Hospital API](https://github.com/Semaj27/hospitalAPI)
+  - [Calorie Tracker](https://github.com/Semaj27/calorie_intake)
 
 <h2>📄 Certifications:</h2>
 
