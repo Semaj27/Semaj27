@@ -1,8 +1,8 @@
 <h1>Hi, I'm Darrell!</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻Software Development Projects:</h2>
 
-<h4>Data Visualization Projects</h4>
+<h4>Data Visualization </h4>
 
   - [Calorie Tracker](https://github.com/Semaj27/calorie_intake)
 
